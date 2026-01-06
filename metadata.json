@@ -1,0 +1,8 @@
+
+{
+  "name": "Cruze Calendar",
+  "description": "A sophisticated daily schedule manager featuring interactive 3D flipping appointment cards with agenda details and participant information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
